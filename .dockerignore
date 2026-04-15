@@ -9,3 +9,5 @@ screeny/
 .pytest_cache
 .mypy_cache
 *.png
+.idea
+.idea/
